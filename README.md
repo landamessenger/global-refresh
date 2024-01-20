@@ -1,3 +1,4 @@
+[![pub package](https://img.shields.io/pub/v/global_refresh.svg)](https://pub.dev/packages/global_refresh)
 
 # Global Refresh
 
